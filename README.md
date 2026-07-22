@@ -66,9 +66,3 @@
 
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-  <sub>Built with TypeScript · React · Next.js · Tailwind CSS</sub>
-</div>
