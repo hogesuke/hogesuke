@@ -1,6 +1,8 @@
 <div align="center">
 
-### つくっているもの
+<img src="assets/heading-products.svg" width="220" alt="Products">
+
+<sub>つくっているもの</sub>
 
 </div>
 
