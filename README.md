@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/heading-products.svg" width="220" alt="Products">
-
-<sub>つくっているもの</sub>
+<img src="assets/heading-products.svg" width="300" alt="PRODUCTS">
 
 </div>
 
