@@ -2,6 +2,8 @@
 
 <img src="assets/heading-products.svg" width="300" alt="PRODUCTS">
 
+<br>
+
 </div>
 
 <table align="center">
