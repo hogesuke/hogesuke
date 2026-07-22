@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- KPTの3色バー。デザイン仕様: 各バー 7x22 / 角丸 3 / 間隔 3 -->
+<svg
+   version="1.1"
+   width="27"
+   height="22"
+   viewBox="0 0 27 22"
+   xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="7" height="22" rx="3" fill="#17a06e" />
+  <rect x="10" y="0" width="7" height="22" rx="3" fill="#eb6a80" />
+  <rect x="20" y="0" width="7" height="22" rx="3" fill="#3d6fd4" />
+</svg>
