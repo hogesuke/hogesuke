@@ -17,7 +17,10 @@
 <td align="center" width="440" valign="top">
 
 <a href="https://simple-kpt.com" target="_blank" rel="noopener">
-  <img src="assets/card-simple-kpt.svg" width="420" alt="Simple KPT — チームの振り返りをもっとシンプルに">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-simple-kpt-dark.svg">
+    <img src="assets/card-simple-kpt-light.svg" width="400" alt="Simple KPT — チームの振り返りをもっとシンプルに">
+  </picture>
 </a>
 
 <br><br>
@@ -41,7 +44,10 @@
 <td align="center" width="440" valign="top">
 
 <a href="https://tasukaru-tools.com" target="_blank" rel="noopener">
-  <img src="assets/card-tasukaru.svg" width="420" alt="タスカルツールズ — 無料で使える便利ツール集">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-tasukaru-dark.svg">
+    <img src="assets/card-tasukaru-light.svg" width="400" alt="タスカルツールズ — 無料で使える便利ツール集">
+  </picture>
 </a>
 
 <br><br>
