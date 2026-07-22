@@ -14,12 +14,12 @@
 <tr>
 
 <!-- ───────────── Simple KPT ───────────── -->
-<td align="center" width="440" valign="top">
+<td align="left" width="330" valign="top">
 
 <a href="https://simple-kpt.com" target="_blank" rel="noopener">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-simple-kpt-dark.svg">
-    <img src="assets/card-simple-kpt-light.svg" width="400" alt="Simple KPT — チームの振り返りをもっとシンプルに">
+    <img src="assets/card-simple-kpt-light.svg" width="300" alt="Simple KPT — チームの振り返りをもっとシンプルに">
   </picture>
 </a>
 
@@ -41,12 +41,12 @@
 </td>
 
 <!-- ───────────── タスカルツールズ ───────────── -->
-<td align="center" width="440" valign="top">
+<td align="left" width="330" valign="top">
 
 <a href="https://tasukaru-tools.com" target="_blank" rel="noopener">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-tasukaru-dark.svg">
-    <img src="assets/card-tasukaru-light.svg" width="400" alt="タスカルツールズ — 無料で使える便利ツール集">
+    <img src="assets/card-tasukaru-light.svg" width="300" alt="タスカルツールズ — 無料で使える便利ツール集">
   </picture>
 </a>
 
