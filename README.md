@@ -22,7 +22,7 @@
 <br>
 
 <a href="https://simple-kpt.com/demo" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+  <img src="https://img.shields.io/badge/Try%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try Demo">
 </a>
 <a href="https://github.com/hogesuke/simple-kpt" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source">
