@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="140" viewBox="0 0 440 140" role="img" aria-label="Simple KPT">
+  <rect x="0.5" y="0.5" width="439" height="139" rx="18" fill="#1b2536" stroke="#ffffff" stroke-opacity="0.08"/>
+  <!-- KPT 3-color bars mark -->
+  <g transform="translate(30 53) scale(1.545)">
+    <rect x="0" y="0" width="7" height="22" rx="3" fill="#17a06e"/>
+    <rect x="10" y="0" width="7" height="22" rx="3" fill="#eb6a80"/>
+    <rect x="20" y="0" width="7" height="22" rx="3" fill="#3d6fd4"/>
+  </g>
+  <text x="100" y="66" font-family="-apple-system,'Hiragino Sans','Noto Sans JP','Segoe UI',Meiryo,sans-serif" font-size="27" font-weight="700" fill="#ffffff">Simple KPT</text>
+  <text x="100" y="95" font-family="-apple-system,'Hiragino Sans','Noto Sans JP','Segoe UI',Meiryo,sans-serif" font-size="14.5" fill="#9fb0c3">チームの振り返りをもっとシンプルに</text>
+</svg>
