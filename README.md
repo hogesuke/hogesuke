@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/heading-works.svg" width="280" alt="WORKS">
+<img src="assets/heading-projects.svg" width="300" alt="PROJECTS">
 
 <br>
 
